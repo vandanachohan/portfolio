@@ -18,7 +18,7 @@ const Projects = () => {
               height={300} // Specify the appropriate height
             />
             <h2>Countdown Timer</h2>
-            <p>This is a simple countdown timer using Next.js, CSS, and TypeScript. You can customize the countdown time by changing the values in the script tag.</p>
+            <p>This is a simple countdown timer using Next js, CSS, and TypeScript. You can customize the countdown time by changing the values in the script tag.</p>
           </div>
 
           <div className="Project-items">
@@ -29,7 +29,7 @@ const Projects = () => {
               height={300} // Specify the appropriate height
             />
             <h2>Weather Widget</h2>
-            <p>This is a weather app using Next.js, CSS, and JavaScript. You can enter your city name to see the current weather and forecast.</p>
+            <p>This is a weather app using Next js, CSS, and JavaScript. You can enter your city name to see the current weather and forecast.</p>
           </div>
 
           <div className="Project-items">
@@ -40,7 +40,7 @@ const Projects = () => {
               height={300} // Specify the appropriate height
             />
             <h2>Todo-List</h2>
-            <p>This is a Todo-List app using Next.js, CSS, and TypeScript. You can enter your todo-list to see when your list is.</p>
+            <p>This is a Todo-List app using Next js, CSS, and TypeScript. You can enter your todo-list to see when your list is.</p>
           </div>
         </div>
       </div>

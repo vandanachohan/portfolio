@@ -8,8 +8,8 @@ const About = () => {
     <section className="home">
       <Header />
       <div className="home-content">
-        <h1><b>Hi, <span>It's vandana</span></b></h1>
-        <h3 className="text-animation"> I'm a <span></span></h3>
+        <h1><b>Hi, <span>It s vandana</span></b></h1>
+        <h3 className="text-animation"> I m a <span></span></h3>
         <p><b>A Passionate Web Developer With a Strong Foundation in HTML, CSS, and TypeScript. I Want to be a Full-Stack Developer</b></p>
       </div>
   

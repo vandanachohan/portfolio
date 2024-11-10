@@ -10,7 +10,7 @@ const Hero = () => {
         <div className='card'>
           <div className='card-content'>
             <h4 className='heading'>About Me</h4>
-            <p>I'm Vandana Chohan, a passionate Front-End Developer and Web Developer from Pakistan. I have a keen eye for detail and a strong understanding of user experience.
+            <p>I m Vandana Chohan, a passionate Front-End Developer and Web Developer from Pakistan. I have a keen eye for detail and a strong understanding of user experience.
             My goal is to create engaging and intuitive web experiences that meet the needs of my clients.</p>
           </div>
         </div>
@@ -55,8 +55,8 @@ const Hero = () => {
               <div className="timeline-date">2024
                 <div className="timeline-content">
                   <h3> karachi University (Ongoing)</h3>
-                  <p>Your time is limited, so don’t waste it living someone else’s life.
-                    Set a goal so big that you can’t achieve it until you grow into the person who can.</p>
+                  <p>Your time is limited, so dont waste it living someone elses life.
+                    Set a goal so big that you cant achieve it until you grow into the person who can.</p>
                 </div>
               </div>
             </div>
